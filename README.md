@@ -1,6 +1,6 @@
 # TestTool
 OOP Edition
-> This program for testing students knowledge in programming languages which based on OOP (for example C++, C#, Java).
+> This program created for testing students knowledge in programming languages which based on OOP (for example C++, C#, Java).
 
 ![](https://github.com/vv0rkman/MVN_TestTool/blob/master/Preview.png)
 
