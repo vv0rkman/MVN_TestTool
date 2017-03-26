@@ -2,7 +2,7 @@
 OOP Edition
 > This program for testing students knowledge in programming languages which based on OOP (for example C++, C#, Java).
 
-![](https://github.com/vv0rkman/TestTool/blob/master/Preview.png)
+![](https://github.com/vv0rkman/MVN_TestTool/blob/master/Preview.png)
 
 ## [API Documentation](https://vv0rkman.github.io/TestTool/)
 
