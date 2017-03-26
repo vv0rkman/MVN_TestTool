@@ -23,4 +23,4 @@ OOP Edition
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/vv0rkman/TestTool/blob/master/LICENSE) file for details
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/vv0rkman/MVN_TestTool/blob/master/LICENSE) file for details.
