@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dataset>
+  <users id="1" password="poluyrgh3 " name="Віктор Швидкий      " activity="Студент   "/>
+  <users id="2" password="jjyfuio21 " name="Іван Петренко       " activity="Студент   "/>
+  <users id="3" password="eyuiop09i " name="Богдан Супенко      " activity="Студент   "/>
+  <users id="4" password="7heiihjo  " name="Олег Черняков       " activity="Викладач  "/>
+  <users id="5" password="888gghhj9 " name="Марія Мартиненко    " activity="Студент   "/>
+  <users id="6" password="opooop    " name="Сергій Чумаков      " activity="Студент   "/>
+  <users id="99" password="qwerty11  " name="testName            " activity="testPost  "/>
+</dataset>

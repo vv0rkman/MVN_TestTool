@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dataset>
+  <question_answer id="1" question="Укажите правильное определение функции main в соответствии со спецификацией стандарта ANSI" answer1="int main()" answer2="void main()" answer3="void main(void)" correct="int main()" category="plus      "/>
+  <question_answer id="2" question="Укажите правильную форму записи цикла do while" answer1="do { } while { }" answer2="do { } while ();" answer3="do { } while ()" correct="do { } while ();" category="plus      "/>
+  <question_answer id="3" question="Какой из ниже перечисленных операторов, не является циклом в С++?" answer1="repeat until" answer2="while" answer3="for" correct="repeat until" category="plus      "/>
+  <question_answer id="4" question="Какой из перечисленных типов данных не является типом данных в С++?" answer1="real" answer2="float" answer3="double" correct="real" category="plus      "/>
+  <question_answer id="5" question="Какую функцию должны содержать все программы на С++?" answer1="start()" answer2="main()" answer3="program()" correct="main()" category="plus      "/>
+  <question_answer id="6" question="Язык программирования C++ разработал" answer1="Бьерн Страуструп" answer2="Дональд Кнут" answer3="Никлаус Вирт" correct="Бьерн Страуструп" category="plus      "/>
+  <question_answer id="7" question="wrHV9ASq2VmvDkKNNip" answer1="0Mg84UHzKwFpz1epnPL" answer2="x1dK3qhFoNmHR1H01BT" answer3="PUbJA0KLDxMt41qe8cj" correct="PUbJA0KLDxMt41qe8cj" category="plus      "/>
+</dataset>
