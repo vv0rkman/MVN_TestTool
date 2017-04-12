@@ -4,7 +4,7 @@ OOP Edition
 
 ![](https://github.com/vv0rkman/MVN_TestTool/blob/master/Preview.png)
 
-## [API Documentation](https://vv0rkman.github.io/TestTool/)
+## [API Documentation](https://vv0rkman.github.io/MVN_TestTool/)
 
 ## Release History
 * 0.1.2
